@@ -1,0 +1,2 @@
+set PGUSER=your_server_username
+set PGPASSWORD=your_server_password
